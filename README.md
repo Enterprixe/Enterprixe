@@ -2,8 +2,6 @@
 
 ![Metrics](https://metrics.lecoq.io/Enterprixe?template=classic&repositories.forks=true&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&introduction=1&achievements=1&isocalendar.duration=half-year&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=10&config.timezone=Europe%2FBerlin&config.display=large)
 
-<hr style="border: 0.3px solid #228be6;"></hr>
-
 ![RayleighLord GitHub stats](https://github-readme-stats.vercel.app/api?username=Enterprixe&show_icons=true&hide=["issues"])
 
 ![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&logoColor=white&color=228be6)
