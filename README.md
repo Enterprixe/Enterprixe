@@ -1,4 +1,4 @@
-*RayleighLord* | [Twitter](https://twitter.com/RayleighLord) | [GitHub](https://github.com/RayleighLord)
+**RayleighLord** | [Twitter](https://twitter.com/RayleighLord) | [GitHub](https://github.com/RayleighLord)
 
 ![Metrics](https://metrics.lecoq.io/RayleighLord?template=classic&repositories.forks=true&base.activity=0&base.community=0&base.repositories=0&isocalendar=1&introduction=1&achievements=1&isocalendar.duration=half-year&introduction.title=true&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=10&config.timezone=Europe%2FBerlin&config.display=large)
 
