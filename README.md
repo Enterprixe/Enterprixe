@@ -1,4 +1,4 @@
-**RayleighLord** | [Twitter](https://twitter.com/RayleighLord) | [GitHub](https://github.com/RayleighLord)
+**RayleighLord** | [Twitter](https://twitter.com/RayleighLord)
 
 ![RayleighLord GitHub stats](https://github-readme-stats.vercel.app/api?username=RayleighLord&show_icons=true&hide=["issues"])
 
